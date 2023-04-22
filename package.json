@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-promt",
   "git": "https://github.com/khoinguyen12200/bootstrap-prompt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom async promt using bootstrap",
   "main": "index.js",
   "scripts": {
