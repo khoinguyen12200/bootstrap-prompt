@@ -2,7 +2,6 @@ function bootstrapPrompt(message, options = {}) {
     const id = Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15);
     const idOkButton = `ok-button-${id}`;
     const idCancelButton = `cancel-button-${id}`;
-
     const modal = $(`
             <!-- Modal -->
             <div class="modal fade" id="${id}" tabindex="-1" aria-hidden="true">
